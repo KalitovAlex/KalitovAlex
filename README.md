@@ -10,7 +10,7 @@
 
 ## :hammer: Libraries and Frameworks
 - React :globe_with_meridians:
-- Flutter :underage:
+- Flutter :trollface:
 - React-query :hearts:
 - BLoC :diamond_shape_with_a_dot_inside:
   
