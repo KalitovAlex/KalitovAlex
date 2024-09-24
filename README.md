@@ -14,6 +14,6 @@
 - React-query :hearts:
 - BLoC :diamond_shape_with_a_dot_inside:
   
-## :shipit: Interesting in
-- Frontend :couplekiss:
+## :tv: Interesting
+- Frontend :crystal_ball:
 - Mobile :iphone:
