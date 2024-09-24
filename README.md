@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey 👋
+## Ссылки :calling:
+-  [Habr career](https://habr.com/ru/users/Richardj1337/)
+-  [Head Hunter resume](https://hh.ru/applicant/resumes/view?resume=f374a08fff0cf662db0039ed1f486c73377a38)
 
-<!--
-**KalitovAlex/KalitovAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💡 Languages
+- Dart :dart:
+- TypeScript :globe_with_meridians:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :hammer: Libraries and Frameworks
+- React :globe_with_meridians:
+- Flutter :underage:
+- React-query :hearts:
+- BLoC :diamond_shape_with_a_dot_inside:
+  
+## :shipit: Interesting in
+- Frontend :couplekiss:
+- Mobile :iphone:
