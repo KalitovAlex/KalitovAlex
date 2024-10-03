@@ -9,11 +9,11 @@
 - TypeScript :globe_with_meridians:
 
 ## :hammer: Libraries and Frameworks
+- Flutter :small_blue_diamond:
+- BLoC :diamond_shape_with_a_dot_inside:
 - React :globe_with_meridians:
 - Next :black_circle:
-- Flutter :trollface:
 - React-query :hearts:
-- BLoC :diamond_shape_with_a_dot_inside:
   
 ## :tv: Interesting
 - Frontend :crystal_ball:
