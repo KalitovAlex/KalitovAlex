@@ -11,7 +11,7 @@
 ## :hammer: Libraries and Frameworks
 - Flutter :small_blue_diamond:
 - BLoC :diamond_shape_with_a_dot_inside:
-- React :globe_with_meridians:
+- React ⚛️
 - Next :black_circle:
 - React-query :hearts:
   
