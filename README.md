@@ -5,8 +5,8 @@
 
 
 ## 💡 Languages
-- Dart :dart:
 - TypeScript :globe_with_meridians:
+- Dart :dart:
 
 ## :hammer: Libraries and Frameworks
 - React ⚛️
