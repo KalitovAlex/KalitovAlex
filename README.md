@@ -10,8 +10,7 @@
 
 <div align="center">
 [![Habr](https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/richardj1337)
-[![HH.ru](https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/applicant/resumes/view?resume=f374a08fff0cf662db0039ed1f486c73377a38)
-
+[![HH.ru](https://img.shields.io/badge/HH%2Eru-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/applicant/resumes/view?resume=f374a08fff0cf662db0039ed1f486c73377a38)
 </div>
 
 ## 🚀 Tech Stack / Технологический стек
@@ -56,7 +55,3 @@
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-
----
-
-**ВПЕРЕД @Web**
