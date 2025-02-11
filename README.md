@@ -1,14 +1,17 @@
-# 👋 Welcome to my profile! / Привет! Добро пожаловать в мой профиль!
+# 👋 Welcome to my profile!
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Mobile+Developer)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Mobile+Developer)](https://git.io/typing-svg)
+
 </div>
 
-## 🔗 Connect With Me / Свяжитесь со мной
+## 🔗 Connect With Me
 
 <div align="center">
-  [![Habr](https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/richardj1337)
-  [![HH.ru](https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/applicant/resumes/view?resume=f374a08fff0cf662db0039ed1f486c73377a38)
+[![Habr](https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/richardj1337)
+[![HH.ru](https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=headhunter&logoColor=white)](https://hh.ru/applicant/resumes/view?resume=f374a08fff0cf662db0039ed1f486c73377a38)
+
 </div>
 
 ## 🚀 Tech Stack / Технологический стек
