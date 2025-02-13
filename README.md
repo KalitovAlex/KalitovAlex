@@ -37,7 +37,6 @@
 ![Zod](https://img.shields.io/badge/Zod-325BFF?style=for-the-badge&logo=zod&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![@Web](https://img.shields.io/badge/@Web-000000?style=for-the-badge&logo=web&logoColor=white)
 
 ### 🧪 Testing / Тестирование
 
