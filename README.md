@@ -29,6 +29,9 @@
 ![Radix UI](https://img.shields.io/badge/Radix_UI-222222?style=for-the-badge&logo=&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-FF9900?style=for-the-badge&logo=d3&logoColor=white)
+![React Flow](https://img.shields.io/badge/React_Flow-19CEF1?style=for-the-badge&logo=react&logoColor=white)
+![TinyMCE](https://img.shields.io/badge/TinyMCE-323232?style=for-the-badge&logo=tinymce&logoColor=white)
 
 ### 🧪 Testing / Тестирование
 
