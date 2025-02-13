@@ -32,6 +32,12 @@
 ![D3.js](https://img.shields.io/badge/D3.js-FF9900?style=for-the-badge&logo=d3&logoColor=white)
 ![React Flow](https://img.shields.io/badge/React_Flow-19CEF1?style=for-the-badge&logo=react&logoColor=white)
 ![TinyMCE](https://img.shields.io/badge/TinyMCE-323232?style=for-the-badge&logo=tinymce&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-272343?style=for-the-badge&logo=zustand&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-1DA1F2?style=for-the-badge&logo=globe&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-325BFF?style=for-the-badge&logo=zod&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![@Web](https://img.shields.io/badge/@Web-000000?style=for-the-badge&logo=web&logoColor=white)
 
 ### 🧪 Testing / Тестирование
 
