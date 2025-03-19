@@ -48,7 +48,6 @@
 ### 💫 Areas of Interest / Области интересов
 
 ![Frontend](https://img.shields.io/badge/Frontend-3C873A?style=for-the-badge&logoColor=white)
-![Mobile](https://img.shields.io/badge/Mobile-147EFB?style=for-the-badge&logoColor=white)
 
 ## 📋 Workflow & Tools / Инструменты и рабочие процессы
 
