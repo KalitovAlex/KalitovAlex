@@ -41,6 +41,11 @@
 ![Yandex Maps](https://img.shields.io/badge/Yandex_Maps-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
+### 🚀 Build Systems / Системы сборки
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
 ### 🧪 Testing / Тестирование
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
