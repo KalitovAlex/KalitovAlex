@@ -35,6 +35,8 @@
 ![Zustand](https://img.shields.io/badge/Zustand-272343?style=for-the-badge&logo=zustand&logoColor=white)
 ![i18n](https://img.shields.io/badge/i18n-1DA1F2?style=for-the-badge&logo=globe&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-325BFF?style=for-the-badge&logo=zod&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![StoryBook](https://img.shields.io/badge/StoryBook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Yandex Maps](https://img.shields.io/badge/Yandex_Maps-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
