@@ -40,6 +40,7 @@
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Yandex Maps](https://img.shields.io/badge/Yandex_Maps-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Mobx](https://img.shields.io/badge/Mobx-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### 🧪 Testing / Тестирование
 
