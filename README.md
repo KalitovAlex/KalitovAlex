@@ -23,6 +23,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Mobx](https://img.shields.io/badge/Mobx-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -40,7 +41,6 @@
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Yandex Maps](https://img.shields.io/badge/Yandex_Maps-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Mobx](https://img.shields.io/badge/Mobx-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### 🧪 Testing / Тестирование
 
